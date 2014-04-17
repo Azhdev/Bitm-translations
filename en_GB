@@ -17,7 +17,7 @@ item.nythoe.name=Nyt Hoe
 item.viceaxe.name=Vice Axe
 item.vicepick.name=Vice Pickaxe
 item.vicesword.name=Vice Sword
-item.viceshovel.name=Vice Spade
+item.vicespade.name=Vice Spade
 item.vicehoe.name=Vice Hoe
 item.bemeraldaxe.name=Emerald Axe
 item.bemeraldpick.name=Emerald Pickaxe
@@ -40,6 +40,7 @@ item.stickinyt.name=Nyt Rod
 item.stickvice.name=Vice Rod
 item.flintiron.name=Iron Flint
 item.bonyiumingot.name=Bonyium Ingot
+item.emeraldbitcoin.name=Emerald Bitcoin
 
 tile.nytore.name=Nyt Ore
 tile.viceore.name=Vice Ore

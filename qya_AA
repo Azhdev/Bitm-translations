@@ -1,5 +1,16 @@
 itemGroup.Bonyindustiraltech=Bit Mod
 
+achievement.rodcarver=Time to Carve!
+achievement.rodcarver.desc=Make a Rodcarver with some Quartz and Iron
+achievement.nytore=The purple stuff
+achievement.nytore.desc=Mine some Nyt Ore
+achievement.nytfurnace=Smelt Smarter!
+achievement.nytfurnace.desc=Craft a Nytrogenic Furnace
+achievement.machineblock=The Age of Tech!
+achievement.machineblock.desc=Craft a Machineblock with some Vice and Redstone
+achievement.viceore=The Other Ore
+achievement.viceore.desc=Mine some Vice Ore
+
 item.nytitem.name=Nyt
 item.viceitem.name=Vice
 item.basicbattery.name=Battery

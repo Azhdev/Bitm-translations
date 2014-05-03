@@ -1,4 +1,7 @@
-itemGroup.Bonyindustiraltech=Bit Mod
+itemGroup.Bonyindustiraltechtools=Bitm Tools
+itemGroup.Bonyindustiraltechmaterials=Bitm Materials
+itemGroup.Bonyindustiraltechmachines=Bitm Machines
+itemGroup.Bonyindustiraltechdeco=Bitm Decoration
 
 achievement.rodcarver=Time to Carve!
 achievement.rodcarver.desc=Make a Rodcarver with some Quartz and Iron

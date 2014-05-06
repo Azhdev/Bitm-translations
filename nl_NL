@@ -1,18 +1,18 @@
-itemGroup.Bonyindustiraltechtools=Bitm Tools
-itemGroup.Bonyindustiraltechmaterials=Bitm Materials
+itemGroup.Bonyindustiraltechtools=Bitm Gereedschappen
+itemGroup.Bonyindustiraltechmaterials=Bitm Materialen
 itemGroup.Bonyindustiraltechmachines=Bitm Machines
-itemGroup.Bonyindustiraltechdeco=Bitm Decoration
+itemGroup.Bonyindustiraltechdeco=Bitm Decoratie
 
-achievement.rodcarver=Time to Carve!
-achievement.rodcarver.desc=Make a Rodcarver with some Quartz and Iron
-achievement.nytore=The purple stuff
-achievement.nytore.desc=Mine some Nyt Ore
-achievement.nytfurnace=Smelt Smarter!
-achievement.nytfurnace.desc=Craft a Nytrogenic Furnace
-achievement.machineblock=The Age of Tech!
-achievement.machineblock.desc=Craft a Machineblock with some Vice and Redstone
-achievement.viceore=The Other Ore
-achievement.viceore.desc=Mine some Vice Ore
+achievement.rodcarver=tijd om the snijden!
+achievement.rodcarver.desc=Maak een staaf snijder met wat kwarts en ijzer
+achievement.nytore=Het paarse spul
+achievement.nytore.desc=Mijn wat Nyt erts
+achievement.nytfurnace=Smelt slimmer!
+achievement.nytfurnace.desc=Maak een Nytrogenic Fornuis
+achievement.machineblock=Het tijperk van de Tech
+achievement.machineblock.desc=Maak een achineblok met wat Vice en Redstone
+achievement.viceore=De andere erts
+achievement.viceore.desc=Mijn wat Vice erts
 
 item.nytitem.name=Nyt
 item.viceitem.name=Vice
